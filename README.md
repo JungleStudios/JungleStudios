@@ -1,8 +1,10 @@
+<center>
 ```
                 __        ___  __  ___       __     __   __  
    | |  | |\ | / _` |    |__  /__`  |  |  | |  \ | /  \ /__` 
 \__/ \__/ | \| \__> |___ |___ .__/  |  \__/ |__/ | \__/ .__/
 ```
+</center>
 
 Welcome to the official GitHub repository of **JungleStudios**!
 
