@@ -1,14 +1,12 @@
-<center>
 ```
                 __        ___  __  ___       __     __   __  
    | |  | |\ | / _` |    |__  /__`  |  |  | |  \ | /  \ /__` 
 \__/ \__/ | \| \__> |___ |___ .__/  |  \__/ |__/ | \__/ .__/
 ```
-</center>
 
-Welcome to the official GitHub repository of **JungleStudios**!
+<center>Welcome to the official GitHub repository of **JungleStudios**!</center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungleStudios)](https://www.junglestudios.it)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungleStudios&langs_count=8)](https://www.junglestudios.it)
 
 We are a dynamic team of developers specializing in:
 - Web Development
