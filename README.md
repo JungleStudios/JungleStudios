@@ -4,7 +4,7 @@
 \__/ \__/ | \| \__> |___ |___ .__/  |  \__/ |__/ | \__/ .__/
 ```
 
-<center>Welcome to the official GitHub repository of **JungleStudios**!</center>
+Welcome to the official GitHub repository of **JungleStudios**!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungleStudios&langs_count=8)](https://www.junglestudios.it)
 
